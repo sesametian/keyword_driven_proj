@@ -1,0 +1,18 @@
+2019-03-10 15:01:08 Log.py[line:25] INFO webelement:sogou->SearchPage.InputBox   operate fail
+2019-03-10 15:01:08 Log.py[line:25] INFO webelement:sogou->SearchPage.SubmitButton  operate fail
+2019-03-10 15:02:48 Log.py[line:25] INFO webelement:sogou->SearchPage.InputBox   operate fail
+2019-03-10 15:02:48 Log.py[line:25] INFO webelement:sogou->SearchPage.SubmitButton  operate fail
+2019-03-10 15:04:59 Log.py[line:25] INFO webelement:sogou->SearchPage.InputBox   operate fail
+2019-03-10 15:04:59 Log.py[line:25] INFO webelement:sogou->SearchPage.SubmitButton  operate fail
+2019-03-10 15:06:54 Log.py[line:25] INFO webelement:sogou->SearchPage.InputBox   operate fail
+2019-03-10 15:06:54 Log.py[line:25] INFO webelement:sogou->SearchPage.SubmitButton  operate fail
+2019-03-10 16:16:57 Log.py[line:25] INFO assert_word('≥¨»À')
+∂œ—‘ ß∞‹£∫
+Traceback (most recent call last):
+  File "E:/keyword_driven_proj/TestScript/Test.py", line 51, in <module>
+    eval(command)
+  File "<string>", line 1, in <module>
+  File "E:\keyword_driven_proj\Action\WebElementAction.py", line 67, in assert_word
+    assert word in driver.page_source
+AssertionError
+
